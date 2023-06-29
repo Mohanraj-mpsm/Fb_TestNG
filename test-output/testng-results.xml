@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-29T15:20:11Z" name="Suite" finished-at="2023-06-29T15:20:21Z" duration-ms="10333">
+    <groups>
+    </groups>
+    <test started-at="2023-06-29T15:20:11Z" name="Test" finished-at="2023-06-29T15:20:21Z" duration-ms="10333">
+      <class name="com.fb.FbAccountCreation">
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.fb.FbAccountCreation@2fd953a6]" started-at="2023-06-29T15:20:11Z" name="launch" finished-at="2023-06-29T15:20:16Z" duration-ms="5489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="maximizetheWindow()[pri:1, instance:com.fb.FbAccountCreation@2fd953a6]" started-at="2023-06-29T15:20:16Z" name="maximizetheWindow" finished-at="2023-06-29T15:20:16Z" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizetheWindow -->
+        <test-method signature="launchURL()[pri:2, instance:com.fb.FbAccountCreation@2fd953a6]" started-at="2023-06-29T15:20:16Z" name="launchURL" finished-at="2023-06-29T15:20:18Z" duration-ms="1475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="signupButton()[pri:3, instance:com.fb.FbAccountCreation@2fd953a6]" started-at="2023-06-29T15:20:18Z" name="signupButton" finished-at="2023-06-29T15:20:18Z" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupButton -->
+        <test-method signature="namingDetail(java.lang.String, java.lang.String)[pri:4, instance:com.fb.FbAccountCreation@2fd953a6]" started-at="2023-06-29T15:20:18Z" name="namingDetail" data-provider="fullname" finished-at="2023-06-29T15:20:20Z" duration-ms="1797" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[moh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- namingDetail -->
+        <test-method signature="mobNumber()[pri:5, instance:com.fb.FbAccountCreation@2fd953a6]" started-at="2023-06-29T15:20:20Z" name="mobNumber" finished-at="2023-06-29T15:20:20Z" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobNumber -->
+        <test-method signature="passCode()[pri:6, instance:com.fb.FbAccountCreation@2fd953a6]" started-at="2023-06-29T15:20:20Z" name="passCode" finished-at="2023-06-29T15:20:20Z" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passCode -->
+        <test-method signature="dateofBirth()[pri:7, instance:com.fb.FbAccountCreation@2fd953a6]" started-at="2023-06-29T15:20:20Z" name="dateofBirth" finished-at="2023-06-29T15:20:21Z" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dateofBirth -->
+        <test-method signature="submit()[pri:8, instance:com.fb.FbAccountCreation@2fd953a6]" started-at="2023-06-29T15:20:21Z" name="submit" finished-at="2023-06-29T15:20:21Z" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submit -->
+      </class> <!-- com.fb.FbAccountCreation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
